@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 
 # Insert a video path
-INPUT_FILE_PATH = "crops.mp4"
+INPUT_FILE_PATH = "/home/Radhi/Desktop/crop_line_detector/images/crops.mp4"
 
 # The interpolated polynomial's degree
 POLY_DEGREE  = 1
